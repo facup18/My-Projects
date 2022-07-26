@@ -1,0 +1,37 @@
+C:\Users\santi\OneDrive\Escritorio\PROGRASMACION\Programa 2\Tecnofuture\GestionHorario\GestionHorario\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\santi\OneDrive\Escritorio\PROGRASMACION\Programa 2\Tecnofuture\GestionHorario\GestionHorario\obj\Debug\GestionHorario.Resources.resources
+C:\Users\santi\OneDrive\Escritorio\PROGRASMACION\Programa 2\Tecnofuture\GestionHorario\GestionHorario\obj\Debug\GestionHorario.vbproj.GenerateResource.Cache
+C:\Users\Facundo\Downloads\Tecnofuture\GestionHorario\GestionHorario\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Facundo\Downloads\Tecnofuture\GestionHorario\GestionHorario\obj\Debug\GestionHorario.Resources.resources
+C:\Users\Facundo\Downloads\Tecnofuture\GestionHorario\GestionHorario\obj\Debug\GestionHorario.FrmAdministrador.resources
+C:\Users\Facundo\Downloads\Tecnofuture\GestionHorario\GestionHorario\obj\Debug\GestionHorario.FrmPrincipal.resources
+C:\Users\Facundo\Downloads\Tecnofuture\GestionHorario\GestionHorario\obj\Debug\GestionHorario.FrmRegistro.resources
+C:\Users\Facundo\Downloads\Tecnofuture\GestionHorario\GestionHorario\obj\Debug\GestionHorario.vbproj.GenerateResource.Cache
+C:\Users\Facundo\Desktop\Tecnofuture\Tecnofuture\GestionHorario\GestionHorario\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Facundo\Desktop\Tecnofuture\Tecnofuture\GestionHorario\GestionHorario\obj\Debug\GestionHorario.Resources.resources
+C:\Users\Facundo\Desktop\Tecnofuture\Tecnofuture\GestionHorario\GestionHorario\obj\Debug\GestionHorario.FrmAdministrador.resources
+C:\Users\Facundo\Desktop\Tecnofuture\Tecnofuture\GestionHorario\GestionHorario\obj\Debug\GestionHorario.FrmPrincipal.resources
+C:\Users\Facundo\Desktop\Tecnofuture\Tecnofuture\GestionHorario\GestionHorario\obj\Debug\GestionHorario.FrmRegistro.resources
+C:\Users\Facundo\Desktop\Tecnofuture\Tecnofuture\GestionHorario\GestionHorario\obj\Debug\GestionHorario.vbproj.GenerateResource.Cache
+C:\Users\Facundo\Desktop\Tecnofuture\Tecnofuture\GestionHorario\GestionHorario\bin\Debug\GestionHorario.exe
+C:\Users\Facundo\Desktop\Tecnofuture\Tecnofuture\GestionHorario\GestionHorario\bin\Debug\GestionHorario.pdb
+C:\Users\Facundo\Desktop\Tecnofuture\Tecnofuture\GestionHorario\GestionHorario\bin\Debug\GestionHorario.xml
+C:\Users\Facundo\Desktop\Tecnofuture\Tecnofuture\GestionHorario\GestionHorario\obj\Debug\GestionHorario.exe
+C:\Users\Facundo\Desktop\Tecnofuture\Tecnofuture\GestionHorario\GestionHorario\obj\Debug\GestionHorario.xml
+C:\Users\Facundo\Desktop\Tecnofuture\Tecnofuture\GestionHorario\GestionHorario\obj\Debug\GestionHorario.pdb
+C:\Users\Facundo\Desktop\Tecnofuture\GestionHorario\GestionHorario\obj\Debug\GestionHorario.exe
+C:\Users\Facundo\Desktop\Tecnofuture\GestionHorario\GestionHorario\obj\Debug\GestionHorario.xml
+C:\Users\Facundo\Desktop\Tecnofuture\GestionHorario\GestionHorario\obj\Debug\GestionHorario.pdb
+C:\Users\Facundo\Desktop\Tecnofuture\GestionHorario\GestionHorario\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Facundo\Desktop\Tecnofuture\GestionHorario\GestionHorario\obj\Debug\GestionHorario.Resources.resources
+C:\Users\Facundo\Desktop\Tecnofuture\GestionHorario\GestionHorario\obj\Debug\GestionHorario.FrmAdministrador.resources
+C:\Users\Facundo\Desktop\Tecnofuture\GestionHorario\GestionHorario\obj\Debug\GestionHorario.FrmPrincipal.resources
+C:\Users\Facundo\Desktop\Tecnofuture\GestionHorario\GestionHorario\obj\Debug\GestionHorario.FrmRegistro.resources
+C:\Users\Facundo\Desktop\Tecnofuture\GestionHorario\GestionHorario\obj\Debug\GestionHorario.vbproj.GenerateResource.Cache
+C:\Users\Facundo\Desktop\Tecnofuture\GestionHorario\GestionHorario\bin\Debug\GestionHorario.exe
+C:\Users\Facundo\Desktop\Tecnofuture\GestionHorario\GestionHorario\bin\Debug\GestionHorario.pdb
+C:\Users\Facundo\Desktop\Tecnofuture\GestionHorario\GestionHorario\bin\Debug\GestionHorario.xml
+C:\Users\Facundo\Desktop\Tecnofuture\GestionHorario\GestionHorario\obj\Debug\GestionHorario.FrmABMEmpleado.resources
+C:\Users\Facundo\Desktop\Tecnofuture\GestionHorario\GestionHorario\obj\Debug\GestionHorario.frmLicencia.resources
+C:\Users\Facundo\Desktop\Tecnofuture\GestionHorario\GestionHorario\obj\Debug\GestionHorario.FrmObservaciones.resources
+C:\Users\Facundo\Desktop\Tecnofuture\GestionHorario\GestionHorario\obj\Debug\GestionHorario.FrmHorario.resources
