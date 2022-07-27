@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1636217711 source:c:\users\facue\onedrive\escritorio\todo\programacion\practico1\practico1\obob\archivomod.cpp
+	"archivoMod.h"
+
+1637412782 c:\users\facue\onedrive\escritorio\todo\programacion\practico1\practico1\obob\archivomod.h
+	"stringDinMod.h"
+
+1637964949 c:\users\facue\onedrive\escritorio\todo\programacion\practico1\practico1\obob\stringdinmod.h
+	"booleanMod.h"
+
+1630772113 c:\users\facue\onedrive\escritorio\todo\programacion\practico1\practico1\obob\booleanmod.h
+	<stdio.h>
+
+1631812863 source:c:\users\facue\onedrive\escritorio\todo\programacion\practico1\practico1\obob\booleanmod.cpp
+	"booleanMod.h"
+
+1637770551 source:c:\users\facue\onedrive\escritorio\todo\programacion\practico1\practico1\obob\categoriamod.cpp
+	"categoriaMod.h"
+
+1637770534 c:\users\facue\onedrive\escritorio\todo\programacion\practico1\practico1\obob\categoriamod.h
+	<stdio.h>
+
+1637594194 source:c:\users\facue\onedrive\escritorio\todo\programacion\practico1\practico1\obob\tipohabmod.cpp
+	<stdio.h>
+	"tipoHabMod.h"
+
+1637594120 c:\users\facue\onedrive\escritorio\todo\programacion\practico1\practico1\obob\tipohabmod.h
+
+1638135684 source:c:\users\facue\onedrive\escritorio\todo\programacion\practico1\practico1\obob\datemod.cpp
+	"dateMod.h"
+
+1638135683 c:\users\facue\onedrive\escritorio\todo\programacion\practico1\practico1\obob\datemod.h
+	"booleanMod.h"
+
+1638135684 source:c:\users\facue\onedrive\escritorio\todo\programacion\practico1\practico1\obob\habilidadmod.cpp
+	"habilidadMod.h"
+
+1638027238 c:\users\facue\onedrive\escritorio\todo\programacion\practico1\practico1\obob\habilidadmod.h
+	"stringDinMod.h"
+	"dateMod.h"
+	"tipoHabMod.h"
+
+1638135683 source:c:\users\facue\onedrive\escritorio\todo\programacion\practico1\practico1\obob\listahabmod.cpp
+	"listaHabMod.h"
+
+1638137427 c:\users\facue\onedrive\escritorio\todo\programacion\practico1\practico1\obob\listahabmod.h
+	"habilidadMod.h"
+
+1638056345 source:c:\users\facue\onedrive\escritorio\todo\programacion\practico1\practico1\obob\main.cpp
+	"listaHabMod.h"
+	"arbolMod.h"
+
+1638031682 c:\users\facue\onedrive\escritorio\todo\programacion\practico1\practico1\obob\arbolmod.h
+	"socioMod.h"
+
+1638135683 c:\users\facue\onedrive\escritorio\todo\programacion\practico1\practico1\obob\sociomod.h
+	"categoriaMod.h"
+	"listaHabMod.h"
+
+1638135684 source:c:\users\facue\onedrive\escritorio\todo\programacion\practico1\practico1\obob\sociomod.cpp
+	"socioMod.h"
+
+1637966035 source:c:\users\facue\onedrive\escritorio\todo\programacion\practico1\practico1\obob\stringdinmod.cpp
+	"stringDinMod.h"
+
+1638031682 source:c:\users\facue\onedrive\escritorio\todo\programacion\practico1\practico1\obob\arbolmod.cpp
+	"arbolMod.h"
+
