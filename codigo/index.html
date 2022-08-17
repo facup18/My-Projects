@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script src="codigo.js"></script>
+    <link rel="stylesheet" href="styles.css">
+    <title>Codigo</title>
+</head>
+<body>
+    <main>
+        <div id="containerInfo">
+            <h1> Información </h1>
+            <p>Para utilizar la máquina codificadora deberá elegir<br>
+            un tipo de codificación.</p>
+            <h2> Tipo Three code </h2>
+            <p> En este modo lo que sucederá es que a cada caracter/letra<br>
+                que ingrese será cambiado por el 3er caracter/letra que le siga.<br>
+                Para decodificar sucede lo mismo pero a la inversa, se le restaran 3.</p>
+            
+            <h2> Tipo Key code </h2>
+            <p> En este modo lo que sucederá es que a cada caracter/letra<br>
+                que ingrese será cambiado por el numero ingresado.<br>
+                Si usted ingresa la key "123" y el texto "hola",<br>
+                la "h" pasará a ser la siguiente letra, a la "o"<br>
+                serán dos letras adelante, la "l" serán 3, y con la "a" <br>
+                sera una adelante, repitiendo la key hasta el final del texto<br>
+                Para decodificar sucede lo mismo pero a la inversa.</p>
+        </div>
+        <div id="container">
+            <form action="" method="post" id="form1">
+                <h1>Maquina codificadora:</h1>
+                <h4>Tipo de codificacion:</h4>
+                <div class="rowsSimple">
+                    <input type="radio" id="radio1" name="codificationType" checked>
+                    <label> Three Code</label>
+                </div>
+                <div class="rowsSimple">
+                    <input type="radio" id="radio2" name="codificationType">
+                    <label> Key Code</label>
+                </div>
+                <input type="button" id="codeType" onclick="choose1()" value="Elegir">
+                <h2>Codificar</h2>
+                <div class="columns">
+                    <label>Texto:</label>
+                    <label class="lblTxt">Texto codificado:</label>
+                    <div class="rows">
+                        <input type="text" id="convertStringText" placeholder="Ej: Hola soy Facundo">
+                        <input type="text" id="showText">
+                    </div>
+                    
+                </div>
+                <div class="columns">
+                    <input type="button" id="convertStringButton" onclick="convertStringTres()" value="Codificar">
+                </div>
+
+                <h2>Decodificar</h2>
+                <div class="columns">
+                    <label>Texto:</label>
+                    <label class="lblTxt">Texto decodificado:</label>
+                    <div class="rows">
+                        <input type="text" id="deconvertStringText" placeholder="Texto a decodificar">
+                        <input type="text" id="showTextDeconvert">
+                    </div>
+                </div>
+                <div class="columns">
+                    <input type="button" id="deconvertStringButton" onclick="deconvertStringTres()" value="Decodificar">    
+                </div>
+            </form>
+            <!-- Parte de key-->
+            <form action="" method="post" id="form2">
+                <h1>Maquina codificadora:</h1>
+                <h4>Tipo de codificacion:</h4>
+                <div class="rowsSimple">
+                    <input type="radio" id="radio3" name="codificationType1">
+                    <label> Three Code</label>
+                </div>
+                <div class="rowsSimple">
+                    <input type="radio" id="radio4" name="codificationType1">
+                    <label> Key Code</label>
+                </div>
+                <input type="button" id="codeType1" onclick="choose2()" value="Elegir">
+                <h2>Codificar</h2>
+                <div class="columns">
+                        <label>Ingrese una Key</label>
+                        <label class="lblTxt2">Ingrese un texto:</label>
+                        
+                    <div class="rows">
+                        <input type="text" id="convertKey" placeholder="Key">
+                        <input type="text" id="convertTextKey" placeholder="Ej: Hola soy Facundo">
+                    </div>
+                    <div class="rows">
+                        <label>Su texto codificado es:</label>
+                
+                        <input type="text" id="showTextConvertKey">
+                    </div>
+                    <div class="columns2">
+                        <input type="button" id="convertTextButtonKey" onclick="convertStringKey()" value="Codificar">
+                
+                    </div>
+                </div>
+                <h2>Decodificar</h2>
+                <div class="columns">
+                    <div class="rows">
+                        <label>Ingrese una Key:</label>
+                        <label class="lblTxt2">Ingrese un texto:</label>
+                    </div>
+                    <div class="rows">
+                        <input type="text" id="deconvertKey" placeholder="Key">
+                        <input type="text" id="deconvertTextKey" placeholder="Texto a decodificar">
+                        
+                    </div>
+                    <div class="rows">
+                        <label>Su texto decodificado :</label>
+                        <input type="text" id="showTextDeconvertKey2">
+                    </div>
+                    <div class="columns2">
+                        <input type="button" id="deconvertTextButtonKey" onclick="deconvertStringKey()" value="Decodificar">
+                    </div>
+                </div>
+            </form>
+            
+        </div>
+    </main>
+</body>
+</html>

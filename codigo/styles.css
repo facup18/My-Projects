@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    background-color: rgba(171, 73, 73, 0.7);
+    
+}
+
+#container{
+    margin-left: 35%;
+    position: relative;
+}
+
+#containerInfo{
+    position: absolute;
+    background-color: rgba(73, 140, 171, 0.7);
+    border-radius: 15%;
+    width: auto;
+    height: auto;
+    padding: 20px 20px 20px 20px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    box-shadow: rgba(0, 0, 0, 0.3) 4px 2px 4px;
+    
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    padding: 20px 40px 40px 40px;
+    width: auto;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+.rows{
+    flex-direction: row;
+    
+}
+
+.rowsSimple{
+    flex-direction: row;
+    font-size: 15px;
+    
+}
+
+.columns{
+    flex-direction: column;
+    
+}
+
+.columns2{
+    flex-direction: column;
+    text-align: end;
+}
+
+form label{
+    font-size: 110%;
+    padding: 0px 0px 10px 0px;
+    
+}
+
+form input[type="text"]{
+    height: 30px;
+    box-shadow: rgba(0, 0, 0, 0.3) 4px 2px 4px;
+    border: none;
+    margin: 5px 5px 5px 5px;
+}
+
+form input[type="button"]{
+    height: 30px;
+    width: 176px;
+    font-family: 'Roboto', sans-serif;
+    background-color: rgba(137, 229, 83,0.8);
+    box-shadow: rgba(0, 0, 0, 0.3) 4px 2px 4px;
+    border: none;
+    border-radius: 50px;
+    box-sizing: border-box;
+    outline: none;
+    outline: 0;
+    margin-bottom: 30px;
+    
+}
+
+form input[type="button"]:hover{
+    height: 30px;
+    width: 176px;
+    font-family: 'Roboto', sans-serif;
+    background-color: rgba(137, 229, 83,0.4);
+    border: none;
+    border-radius: 50px;
+    box-sizing: border-box;
+    outline: none;
+    outline: 0;
+    box-shadow: rgba(137, 229, 83,0.4) 4px 2px 4px;
+
+}
+
+#form1{
+    position: absolute;
+    z-index: 2;
+    background-color: rgba(73, 140, 171, 0.7);
+    border-radius: 15%;
+    width: 600px;
+    height: 690px;
+    box-shadow: rgba(73, 140, 171, 0.7) 4px 2px 4px;
+    box-shadow: rgba(0, 0, 0, 0.3) 4px 2px 4px;
+}
+
+#form2{
+    visibility: hidden;
+    position: absolute;
+    z-index: 1;
+    background-color: rgba(73, 140, 171, 0.7);
+    border-radius: 15%;
+    width: 600px;
+    height: 710px;
+    box-shadow: rgba(73, 140, 171, 0.7) 4px 2px 4px;
+    box-shadow: rgba(0, 0, 0, 0.3) 4px 2px 4px;
+}
+
+.lblTxt{
+    margin-left: 130px;
+}
+
+.lblTxt2{
+    margin-left: 53px;
+}
+
+@media(max-width:1553px){
+    main{
+        display: flex;
+        flex-direction: column;
+    }
+
+    #container{
+        margin-top: 600px;
+        margin-left: 0%;
+    }
+}
